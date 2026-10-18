@@ -1,6 +1,6 @@
 # Zadanie 0 (przygotowanie środowiska)
 
-Na GitLabie utwórz własne repozytorium o nazwie `warsztat-programisty`.
+Na GitHubie/GitLabie utwórz własne repozytorium o nazwie `warsztat-programisty`.
 
 Sklonuj je na swój komputer:
 ```
