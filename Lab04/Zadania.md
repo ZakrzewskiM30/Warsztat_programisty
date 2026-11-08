@@ -6,7 +6,6 @@ Każde zadanie umieść w osobnym podkatalogu `zad1`, `zad2`, ... i zapisz rozwi
 Przed rozpoczęciem upewnij się, że w katalogu znajdują się pliki:
 - `tekst.txt`
 - `wiersz.txt`
-- `pracownicy.csv`
 
 ---
 
